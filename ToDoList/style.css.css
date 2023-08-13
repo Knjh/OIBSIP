@@ -1,0 +1,71 @@
+.backG{
+    background-color: #0f0026;
+}
+
+form {
+    border: 2px solid black;
+    width: max-content;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px auto;
+}
+
+h1 {
+    font-size: 20px;
+    margin-left: 100px;
+    color: rgb(38, 5, 100);
+}
+
+input[type="text"] {
+    border: 1px solid black;
+}
+
+textarea[type="text"] {
+    border: 1px solid black;
+}
+
+input[type="submit"] {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 300px;
+}
+
+
+.custom-navbar {
+    height: 40px;
+}
+
+.form-container {
+    background-color: white;
+    border: 2px solid black;
+    width: max-content;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px auto;
+}
+
+.image {
+    width: 30px;
+    height: 35px;
+}
+
+.constant-textarea {
+    width: 300px;
+    height: 250px;
+    resize: none;
+}
+
+.table {
+    color: white;
+}
+.deleteBtn{
+    color: rgb(234, 108, 108);
+    cursor: pointer;
+    
+}
+.deleteBtn:hover{
+    color: rgb(194, 9, 9);
+}
